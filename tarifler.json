@@ -1,21 +1,21 @@
 [
    {
-      "kategoriid": 1,
-      "yemekid": 1,
+     
+      "yemekid": "",
       "yemekismi":"Brokoli Çorbası" ,
       "tarif": "1 çorba kaşığı un ",
       "yemekresmi":"https://cdn.yemek.com/mnresize/940/940/uploads/2019/01/sutsuz-brokoli-corbasi-tarifi.jpg"
     },
    {
-      "kategoriid": 1,
-      "yemekid": 2,
+     
+      "yemekid": "",
       "yemekismi":"Brokoli Çorbası" ,
       "tarif": "1 çorba kaşığı un ",
       "yemekresmi":"https://cdn.yemek.com/mnresize/940/940/uploads/2019/01/sutsuz-brokoli-corbasi-tarifi.jpg"
     },
    {
-      "kategoriid": 1,
-      "yemekid": 3,
+      
+      "yemekid": "",
       "yemekismi":"Brokoli Çorbası" ,
       "tarif": "1 çorba kaşığı un ",
       "yemekresmi":"https://cdn.yemek.com/mnresize/940/940/uploads/2019/01/sutsuz-brokoli-corbasi-tarifi.jpg"

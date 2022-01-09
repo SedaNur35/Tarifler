@@ -1,4 +1,28 @@
-{
+{  "Kategoriler" : [ {
+    "kategoriad" : "Corba",
+    "kategoriid" : "",
+    "kategoriresim" : "corba"
+  }, {
+    "kategoriad" : "Salata",
+    "kategoriid" : "",
+    "kategoriresim" : "salata"
+  }, {
+    "kategoriad" : "Et",
+    "kategoriid" : "",
+    "kategoriresim" : "et"
+  }, {
+    "kategoriad" : "Tavuk",
+    "kategoriid" : "",
+    "kategoriresim" : "tavuk"
+  }, {
+    "kategoriad" : "Sebze",
+    "kategoriid" : "",
+    "kategoriresim" : "sebze"
+  }, {
+    "kategoriad" : "Pilav",
+    "kategoriid" : "",
+    "kategoriresim" : "pilav"
+  } ],
   "Tarifler" :[
   {
      
